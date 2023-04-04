@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a56c82c2029a976498d4742db0cda2fd, type: 3}
+  m_Name: LevelCreator
+  m_EditorClassIdentifier: 
+  image: {fileID: 2800000, guid: 47c7ee046835da44488760911b554be1, type: 3}
+  pixelFrequency: 15
+  cubePrefab: {fileID: 7325925041613045873, guid: 34fc752d499487a4eb3f8803048b1953, type: 3}
